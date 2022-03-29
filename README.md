@@ -9,7 +9,7 @@
 
 A hobbyist developer, hobbyist illustrator and boardgame enthusiast 🎲
 
-#### Currently Learning
+#### Currently Learning 💡
 
 Please, visit my [Playground](https://github.com/adebuhr/playground) to see my study projects.
 
@@ -17,8 +17,14 @@ Please, visit my [Playground](https://github.com/adebuhr/playground) to see my s
 * ![](https://img.shields.io/badge/Code-Quasar-informational?style=flat-square&logo=quasar&logoColor=white&color=AFC9A2)
 * ![](https://img.shields.io/badge/Tool-Aseprite-informational?style=flat-square&logo=aseprite&logoColor=white&color=AFC9A2)
 
-#### Currently Reading
+#### Currently Reading 📚
+
 [Odoo 15 Development Essentials](https://www.goodreads.com/book/show/25428846-odoo-development-essentials) by Daniel Reis
+
+#### Currently Playing 🎮
+
+[Elden Ring](https://www.grouvee.com/games/76526-elden-ring/)
+
 
 
 
