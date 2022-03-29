@@ -10,7 +10,9 @@
 A hobbyist developer, hobbyist illustrator and boardgame enthusiast 🎲
 
 #### Currently Learning
-![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&logoColor=white&color=AFC9A2)
+* ![](https://img.shields.io/badge/Code-Go-informational?style=flat-square&logo=go&logoColor=white&color=AFC9A2)
+* ![](https://img.shields.io/badge/Code-Quasar-informational?style=flat-square&logo=quasar&logoColor=white&color=AFC9A2)
+* ![](https://img.shields.io/badge/Tool-Aseprite-informational?style=flat-square&logo=aseprite&logoColor=white&color=AFC9A2)
 
 
 
