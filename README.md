@@ -17,6 +17,9 @@ Please, visit my [Playground](https://github.com/adebuhr/playground) to see my s
 * ![](https://img.shields.io/badge/Code-Quasar-informational?style=flat-square&logo=quasar&logoColor=white&color=AFC9A2)
 * ![](https://img.shields.io/badge/Tool-Aseprite-informational?style=flat-square&logo=aseprite&logoColor=white&color=AFC9A2)
 
+#### Currently Reading
+[Odoo 15 Development Essentials](https://www.goodreads.com/book/show/25428846-odoo-development-essentials) by Daniel Reis
+
 
 
 <!--
