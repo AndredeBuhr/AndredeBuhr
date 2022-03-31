@@ -1,7 +1,6 @@
 # Hello, I'm André de Buhr👋
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=AFC9A2)
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=javascript&logoColor=white&color=AFC9A2)
-![](https://img.shields.io/badge/Code-c%23-informational?style=flat-square&logo=c-sharp&logoColor=white&color=AFC9A2)
 ![](https://img.shields.io/badge/Tools-VsCode-informational?style=flat-square&logo=visualstudiocode&logoColor=white&color=AFC9A2)
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=flat-square&logo=unity&logoColor=white&color=AFC9A2)
 ![](https://img.shields.io/badge/Tools-Blender-informational?style=flat-square&logo=blender&logoColor=white&color=AFC9A2)
