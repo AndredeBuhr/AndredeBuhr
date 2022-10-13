@@ -19,11 +19,11 @@ Please, visit my [Playground](https://github.com/adebuhr/playground) to see my s
 
 #### Currently Reading 📚
 
-[Odoo 15 Development Essentials](https://www.goodreads.com/book/show/25428846-odoo-development-essentials) by Daniel Reis
+[Not Forgetting the Whale](https://www.goodreads.com/book/show/22919293-not-forgetting-the-whale) by John Ironmonger
 
 #### Currently Playing 🎮
 
-[Elden Ring](https://www.grouvee.com/games/76526-elden-ring/)
+[No Man's Sky](https://www.grouvee.com/games/41117-no-mans-sky/)
 
 
 
